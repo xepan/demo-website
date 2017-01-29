@@ -1,0 +1,14 @@
+.xepan-commerce-item-short-description,
+.xepan-commerce-tool-item-specification,
+.hide-class
+{
+	display: none !important;
+}
+.navbar-nav .login-link a{
+	color: #777 !important;
+	padding-top: 20% !important;
+}
+
+.navbar-nav .login-link{
+  padding-top: 20.6% !important;
+}
